@@ -9,3 +9,9 @@ Calculadora JS | [calculadora-js](https://github.com/gabrielcilico/calculator-js
 Petshop  | [petshop](https://github.com/gabrielcilico/programacao-web-petshop)
 BinaryGap  | [binary-gap](https://github.com/gabrielcilico/programacao-web-binary-gap)
 Petshop Bootstrap | [petshop-bootstrap](https://github.com/gabrielcilico/programacao-web-petshop-bootstrap)
+
+### Segundo bimestre
+                    
+Nome  | Link
+------------- | -------------
+WebScraping - jQuery | [webscraping-jquery](https://github.com/gabrielcilico/webscraping-jquery)
